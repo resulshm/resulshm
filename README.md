@@ -21,7 +21,7 @@ If you would like to contact me, please write to resulshamuhammedov@gmail.com or
 <br>
 <br>
 <div align="center">
-</a><a href="https://www.linkedin.com/in/resul-shamuhammedov-560bbb229/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="50" width="50"></a> <a href="https://twitter.com/Resul_Shmhmdv"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" height="50" width="60"></a><a href="https://www.instagram.com/resul.shm/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="50" width="50"></a>
+</a><a href="https://www.linkedin.com/in/resulshm/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="50" width="50"></a> <a href="https://twitter.com/Resul_Shmhmdv"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" height="50" width="60"></a><a href="https://www.instagram.com/resul.shm/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="50" width="50"></a>
 </div>
 
 
