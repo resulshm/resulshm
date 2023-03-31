@@ -17,7 +17,7 @@
 </div>
 
 <h2 align="center">📧 How to reach me?</h2>
-If you would like to contact me, please write to **resulshamuhammedov@gmail.com** or connect with me on my social media sites:
+If you would like to contact me, please write to <strong>resulshamuhammedov@gmail.com</strong> or connect with me on my social media sites:
 <br>
 <br>
 <div align="center">
