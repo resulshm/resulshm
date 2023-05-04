@@ -3,7 +3,7 @@
 - Highly motivated Backend developer with mathematical background 💻;
 - Open to learn new things 🧠;
 - In free time enjoy reading books📚, playing chess♟️ and searching for new trends 📈;
-- Check out my profile on [medium](https://medium.com/@resul-shamuhammedov)📝;
+- Check out my profile on [medium](https://medium.com/@resul.shm)📝;
 - You can read my blogs in my native language [here](https://makalam.com/@resul.shm/). 
  ---
 <div align="center">
