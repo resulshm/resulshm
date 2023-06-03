@@ -12,7 +12,7 @@
 
 ---
 <h2 align="center">🛠️ Technologies and Tools I use:</h2>
-<div align="center">
+<div align="center" style="padding-left: 50px; padding-right: 50px;">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/ClickHouse-yellow.svg?style=for-the-badge&logo=ClickHouse&logoColor=white"><img src="https://img.shields.io/badge/Apache Kafka-grey.svg?style=for-the-badge&logo=ApacheKafka&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
